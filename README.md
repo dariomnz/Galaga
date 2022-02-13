@@ -1,5 +1,5 @@
 # Galaga
-Java programming of the game Galaga, an arcade game, space shooter from 1981. Project created in a programming job at the university, from a library that manages the graphic part given by the teachers.
+Galaga game programmed in java, an arcade game, space shooter from 1981. Project created in a programming job at the university, from a library that manages the graphic part given by the teachers.
 
 # Teaser
 Here you can see a video of the game.
